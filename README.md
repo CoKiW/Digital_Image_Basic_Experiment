@@ -63,22 +63,6 @@ Atau buka langsung di **Google Colab** dengan mengupload file `.ipynb` dari fold
  
 ---
  
-## Struktur Folder
- 
-```
-operasi-dasar-sinyal-citra/
-├── notebook/
-│   └── TugasEksperimen_PSD_A2_NaufalRazzaqMu_afa.ipynb
-├── images/
-│   └── citra_yang_digunakan.jpg
-├── report/
-│   └── laporan.pdf
-├── README.md
-└── requirements.txt
-```
- 
----
- 
 ## Ringkasan Hasil Eksperimen
  
 ### Operasi Sinyal 1D
