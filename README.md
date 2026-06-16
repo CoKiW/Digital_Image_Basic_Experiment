@@ -1,4 +1,4 @@
-# Digital-image-manipulation-PSD-
+# Digital Image Basic Experiment
 
 Project ini berisi implementasi eksperimen operasi dasar pada **sinyal diskrit 1D** dan **citra 2D** menggunakan Python. Eksperimen mencakup operasi penjumlahan, penggeseran (*shifting*), dan amplifikasi, serta pengujian sifat linieritas sistem melalui uji homogenitas dan additivitas.
  
