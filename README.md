@@ -20,7 +20,7 @@ Eksperimen operasi dasar pada **sinyal diskrit 1D** dan **citra 2D** menggunakan
 ## Cara Menjalankan
  
 ```bash
-git clone https://github.com/naufalrazzaq/operasi-dasar-sinyal-citra.git
+git clone https://github.com/CoKiW/Digital_Image_Basic_Experiment.git
 cd operasi-dasar-sinyal-citra
 pip install -r requirements.txt
 jupyter notebook notebook/TugasEksperimen_PSD_A2_NaufalRazzaqMu_afa.ipynb
